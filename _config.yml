@@ -1,0 +1,26 @@
+# Site settings
+name: JD Fusion Cloud
+#email: luoyan35714@126.com
+author: fusion
+url: https://www.jdcloud.com
+resume_site: https://www.jdcloud.com
+github: https://ybudi.github.io/doc/
+baseurl: "/doc"
+description: 京东混合云使用指导手册
+meta_description: 京东混合云是应用于多云场景下的综合云管平台
+#motto: It's our wits that make us men.
+#banner: 学而不思则罔，思而不学则殆。
+
+permalink: /:categories/:title/
+#permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: ybudi
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: a9db17e01389d6966867f4dc8995d25
+
