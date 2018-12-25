@@ -303,6 +303,7 @@ cite {
 .text-center {
   text-align: center;
 }
+.nav-sidenav{width:200px;height:100px;overflow:auto;}
 h1,
 h2,
 h3,
