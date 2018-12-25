@@ -6436,8 +6436,9 @@ hr {
 .sidebar {
   display: none;
 }
+
 .affix {
-  position: static;
+  position: static; overflow: auto;height: 600px; margin-top:10px
 }
 /* First level of nav */
 .sidenav {
