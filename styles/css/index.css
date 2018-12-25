@@ -571,6 +571,7 @@ pre code {
   background-color: transparent;
   border-radius: 0;
 }
+.nav sidenav{width:200px;height:100px;overflow:auto;}
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
