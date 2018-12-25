@@ -6436,9 +6436,7 @@ hr {
 .sidebar {
   display: none;
 }
-.sidebar.affix {
-  position: static;
-}
+
 /* First level of nav */
 .sidenav {
   margin-top: 30px;
