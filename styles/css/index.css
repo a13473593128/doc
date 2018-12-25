@@ -6423,6 +6423,7 @@ hr {
   margin: 0 -15px;
   border: none;
   border-radius: 0 0 4px 4px;
+	margin-top: 10px;
 }
 .docs-content .container-fluid {
   padding: 0;
