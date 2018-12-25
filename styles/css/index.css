@@ -10,6 +10,7 @@ hgroup,
 main,
 nav,
 section,
+nav sidenav{height: 800px; overflow: auto;}
 summary {
   display: block;
 }
@@ -90,6 +91,7 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
+
 sup {
   top: -0.5em;
 }
