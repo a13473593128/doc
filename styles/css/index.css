@@ -90,7 +90,6 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
-
 sup {
   top: -0.5em;
 }
@@ -304,7 +303,6 @@ cite {
 .text-center {
   text-align: center;
 }
-.nav-sidenav{width:200px;height:100px;overflow:auto;}
 h1,
 h2,
 h3,
@@ -571,7 +569,6 @@ pre code {
   background-color: transparent;
   border-radius: 0;
 }
-.tabheight{width:200px;height:100px;overflow:auto;}
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
@@ -4588,7 +4585,6 @@ a.list-group-item.active:focus .list-group-item-text {
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
-	margin-top: 10px;
 }
 .panel-body {
   padding: 15px;
@@ -6423,7 +6419,6 @@ hr {
   margin: 0 -15px;
   border: none;
   border-radius: 0 0 4px 4px;
-	margin-top: 10px;
 }
 .docs-content .container-fluid {
   padding: 0;
@@ -6438,9 +6433,8 @@ hr {
 .sidebar {
   display: none;
 }
-
-.affix {
-  position: static; overflow: auto;height: 600px; margin-top:10px
+.sidebar.affix {
+  position: static;
 }
 /* First level of nav */
 .sidenav {
